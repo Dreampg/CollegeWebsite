@@ -1,0 +1,140 @@
+
+body
+{
+	background-color: #e3e3e3;
+	font-family:"sans-serif";
+	padding:auto;
+	border:2px solid black;
+	width:1500px;
+	margin:20px auto;
+	margin-left: 150px;
+	background-image: url(background-images/Elegant_Background-5.jpg);
+	
+}
+.wrap
+{
+	background-image: url(background-images/141.jpg);
+	position: relative;
+	background-position:relative;
+}
+ #topmenu li
+{
+	display:inline-block;
+	padding-right: 120px;
+}
+ul a {
+	text-decoration:none;
+	color: #ffbb66;
+	margin-left: 45px;
+	padding: auto;
+
+}
+ul a:hover, ul a:active  {
+	text-decoration:underline; 
+	background-color: #666;
+	color: white;
+	background-image: url(background-images/141.jpg);
+	font-style: italic;
+	padding: 20px;
+	padding-left: 40px;
+	padding-right: 60px;
+}
+
+
+ #topmenu{
+ 	background-color: #bbbbff;
+ 	 font-size: 30px;
+ 	background-image: url(background-images/5.jpg);
+ 	padding: 20px;
+}
+ #shift p{
+ 	font-style:italic;
+ 	font:arial;
+ 	font-size: 20;
+ 	color: white;
+ 	background-image: url(background-images/Elegant_Background-4.jpg);
+ 	padding: 20px;
+ 	font-family: verdana;
+ 	width:1450px;
+ 	margin-left: 5px;
+ 	bottom: 2px;
+  }
+   p {
+ 	font-style:italic;
+ 	font:arial;
+ 	font-size: 20;
+ 	color: white;
+ 	background-image: url(background-images/Elegant_Background-4.jpg);
+ 	padding: 20px;
+ 	font-family: verdana;
+ 	width:900px;
+ 	margin-left: 5px;
+ 	bottom: 2px;
+  }
+  p a{
+  	color: red;
+  }
+  h1{
+  	margin-left: 5px;
+  	font-size:40;
+  	font-family: tahoma; 
+  }
+  
+  #container{
+	width:1200px;
+	height:550px;
+	border:2px solid black;
+	margin:auto;
+	margin-top: 60px;
+	position:relative;
+}
+#container>img{
+	width:100%;
+	height:100%;
+	position:absolute;
+}
+#container>.btn{
+	position:absolute;
+	width:50px;
+	height:50px;
+	border:none;
+	border-radius:25px;
+	top:275px;
+	color: white;
+	background-color: black;
+}
+#container>#btn1:hover{
+	box-shadow: 10px 0px 20px 5px black; 
+}
+#container>#btn2:hover{
+	box-shadow: -10px 0px 20px 5px black; 
+}
+#container>#btn2{
+	position:relative;
+	float:right;
+}
+ #datagrid {
+	width:500px;
+	height:310px;
+	border:1px solid black;
+	position:relative;
+	float: right;
+	margin: auto;
+	margin-right: 25px;
+	border-collapse: collapse;
+		background-image: url(background-images/background.jpg);
+}
+#datagrid  li{
+	color:white;
+	font-size: 24;
+}
+
+#datagrid h3{
+	color: white;
+	font-size:30;
+	text-align: center;
+	background-image: url(background-images/17.jpg);
+	padding: 20px;
+	margin-top: 0px;
+	border: 1px solid black;
+}
